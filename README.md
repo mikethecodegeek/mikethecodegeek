@@ -36,6 +36,7 @@
 <br />
 <br />
 
+[![Mikes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikethecodegeek)](https://github.com/mikethecodegeek/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/michael-sanford-1180b3115/
