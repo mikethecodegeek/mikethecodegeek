@@ -1,5 +1,5 @@
 ### Hi there, I'm Mike 👋
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 
 - 🔭 I’m currently working on an awesome property management app
 - 🌱 I’m currently learning everything 🤣
@@ -41,7 +41,7 @@
 
 [![Mikes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikethecodegeek&show_icons=true&theme=radical&count_private=true&hide=contribs)](https://github.com/mikethecodegeek/github-readme-stats)
 </details>
-
+<br />
 <details>
   <summary>:zap: Most Used Languages</summary>
 
