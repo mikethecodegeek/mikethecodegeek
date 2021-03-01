@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on an awesome property management app
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other amazing developers
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love playing guitar and video games. Mario Kart anyone?
 
 ### Connect with me:
