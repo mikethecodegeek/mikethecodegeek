@@ -1,7 +1,8 @@
 ### Hi there, I'm Mike 👋
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 - 🔭 I’m currently working on an awesome property management app
-- 🌱 I’m currently learning everything 😄
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other amazing developers
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -35,7 +36,13 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+
 [![Mikes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikethecodegeek&show_icons=true&theme=radical&count_private=true&hide=contribs)](https://github.com/mikethecodegeek/github-readme-stats)
+</details>
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/michael-sanford-1180b3115/
