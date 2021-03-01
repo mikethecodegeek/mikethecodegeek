@@ -39,9 +39,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
 [![Mikes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikethecodegeek&show_icons=true&theme=radical&count_private=true&hide=contribs)](https://github.com/mikethecodegeek/github-readme-stats)
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Mike's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikethecodegeek" />
+
 </details>
 
 [website]: https://codeSTACKr.com
